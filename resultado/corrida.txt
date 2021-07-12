@@ -1,0 +1,79 @@
+[
+	{
+		"id": 1,
+		"nombre": "Lau",
+		"mail": "laura.aguilar90@gmail.com",
+		"excep": 3,
+		"amigue": 7
+	},
+	{
+		"id": 2,
+		"nombre": "Flor",
+		"mail": "flor.piache@gmail.com",
+		"excep": 5,
+		"amigue": 11
+	},
+	{
+		"id": 3,
+		"nombre": "Gabi",
+		"mail": "gabice88@gmail.com",
+		"excep": 1,
+		"amigue": 5
+	},
+	{
+		"id": 4,
+		"nombre": "Ana",
+		"mail": "anafloradelasramas@gmail.com",
+		"excep": 0,
+		"amigue": 2
+	},
+	{
+		"id": 5,
+		"nombre": "Percha",
+		"mail": "fernandomarturet@gmail.com",
+		"excep": 2,
+		"amigue": 6
+	},
+	{
+		"id": 6,
+		"nombre": "Javi",
+		"mail": "musich.js@gmail.com",
+		"excep": 0,
+		"amigue": 4
+	},
+	{
+		"id": 7,
+		"nombre": "Agus",
+		"mail": "agustinalemos013@gmail.com",
+		"excep": 8,
+		"amigue": 1
+	},
+	{
+		"id": 8,
+		"nombre": "Fabu",
+		"mail": "facundofedericomartin@gmail.com",
+		"excep": 7,
+		"amigue": 3
+	},
+	{
+		"id": 9,
+		"nombre": "Warter",
+		"mail": "frutavisual@gmail.com",
+		"excep": 0,
+		"amigue": 10
+	},
+	{
+		"id": 10,
+		"nombre": "Kolke",
+		"mail": "jorge.manu87@gmail.com",
+		"excep": 0,
+		"amigue": 9
+	},
+	{
+		"id": 11,
+		"nombre": "Dami",
+		"mail": "damiancalderon@gmail.com",
+		"excep": 0,
+		"amigue": 8
+	}
+]
